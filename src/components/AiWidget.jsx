@@ -2,8 +2,8 @@ import React, { useEffect, useState, useRef } from 'react';
 
 const AiWidget = () => {
   const baseUrl = 'https://2human.ai';
-  const aiName = 'amy';
-  const templateName = 'timdplr-gmail-com';
+  const aiName = 'penny';
+  const templateName = 'sara-saracoti-com';
   const isLeft = true;
 
   const [visible, setVisible] = useState(false);
