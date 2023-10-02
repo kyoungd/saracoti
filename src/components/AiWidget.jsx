@@ -3,7 +3,7 @@ import React, { useEffect, useState, useRef } from 'react';
 const AiWidget = () => {
   const baseUrl = 'https://2human.ai';
   const aiName = 'penny';
-  const templateName = 'sara-saracoti-com';
+  const templateName = '17258779347';
   const isLeft = true;
 
   const [visible, setVisible] = useState(false);
