@@ -2,7 +2,7 @@ import React, { useEffect, useState, useRef } from 'react';
 
 const AiWidget = () => {
   const baseUrl = 'https://2human.ai';
-  const aiName = 'penny';
+  const aiName = 'amy';
   const templateName = '17258779347';
   const isLeft = true;
 
